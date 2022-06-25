@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Shell.NavBarIsVisible="False"
+             x:Class="AppEpgEtec.Views.Usuarios.LoginView">
+    <ContentPage.Content>
+        
+        <StackLayout>
+
+            <TableView Intent="Form" HasUnevenRows="True">
+                <TableRoot>
+                    <TableSection Title="Dados do Usuário">
+                        <ViewCell>
+                            <Entry Placeholder="Digite seu E-mail" VerticalOptions="FillAndExpand"
+                             HorizontalOptions="FillAndExpand" Text ="{Binding Login}"></Entry>
+                        </ViewCell>
+                        <ViewCell>
+                            <Entry Placeholder="Digite a senha" IsPassword="True" VerticalOptions="FillAndExpand"
+                           HorizontalOptions="FillAndExpand" Text="{Binding Senha}">
+                            </Entry>
+                        </ViewCell>
+                        <ViewCell>
+                            <Button Text="Entrar" Command="{Binding EntrarCommand}"/>
+                        </ViewCell>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

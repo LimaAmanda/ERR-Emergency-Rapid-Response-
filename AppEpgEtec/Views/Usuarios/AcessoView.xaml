@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppEpgEtec.Views.Usuarios.AcessoView">
+    <ContentPage.Content>
+        <StackLayout>
+            <SearchBar Placeholder="login" Text="{Binding ParametroBuscar}">
+                
+            </SearchBar>
+        <Button Text="Buscar pelo login" Command="{Binding BuscarCommand}"></Button>
+        <ListView ItemsSource="{Binding ListaAcessos}"
+                  SelectedItem="{Binding AcessoSelecionado}">
+            
+                <ListView.Header>
+                    <Grid RowDefinitions="*,*,*">
+                        <Label Grid.Row="0" Grid.Column="0" Text="Id"></Label>
+                        <Label Grid.Row="0" Grid.Column="1" Text="Login"></Label>
+                        <Label Grid.Row="0" Grid.Column="2" Text="Dispositivo"></Label>
+                        <Label Grid.Row="0" Grid.Column="3" Text="Acesso"></Label>
+                        
+                    </Grid>
+                </ListView.Header>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid RowDefinitions="Auto" ColumnDefinitions="*,*,*">
+                                <Label Grid.Row="0" Grid.Column="0" Text="{Binding Id}"></Label>
+                                <Label Grid.Row="0" Grid.Column="1" Text="{Binding Login}"></Label>
+                                <Label Grid.Row="0" Grid.Column="2" Text="{Binding Dispositivo}"></Label>
+                                <Label Grid.Row="0" Grid.Column="3" Text="{Binding DtAcesso,StringFormat='{0:dd/MM/yyyy HH:mm}'}"></Label>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                
+         </ListView>
+        <Label Text="Welcome to Xamarin.Forms!"
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="CenterAndExpand"/>
+            </StackLayout>
+
+        </ContentPage.Content>
+</ContentPage>

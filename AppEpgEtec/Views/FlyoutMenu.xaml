@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            
+              xmlns:viewsRaiz ="clr-namespace:AppEpgEtec"
+             xmlns:viewsInfo ="clr-namespace:AppEpgEtec.Views" 
+             
+       
+             xmlns:viewsUsuarios ="clr-namespace:AppEpgEtec.Views.Usuarios" 
+             xmlns:viewsVeiculos ="clr-namespace:AppEpgEtec.Views.Veiculos"
+       
+             
+            
+             x:Class="AppEpgEtec.Views.FlyoutMenu">
+
+    <Shell.FlyoutHeaderTemplate>
+        <DataTemplate>
+            <Grid BackgroundColor="Transparent">
+                <Image Aspect="AspectFill" HeightRequest="250"
+                       Source="err_tcc.gif"
+                       Opacity="0.6"/>
+            </Grid>
+        </DataTemplate>
+    </Shell.FlyoutHeaderTemplate>
+
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems" >
+
+        <ShellContent x:Name="PaginaInicial"
+                  Title="Página inicial" Icon="Home.png"
+                  ContentTemplate="{DataTemplate viewsRaiz:MainPage}" />
+
+       <!--- <ShellContent Title="Usuarios" Icon="MenuUsuarios.png"
+                  ContentTemplate="{DataTemplate viewsUsuarios:ListagemView}" /> -->
+        <!--<ShellContent Title="Acessos"
+                          ContentTemplate="{DataTemplate viewsUsuarios:AcessoView}"/> -->
+       <!-- <ShellContent Title="Tempo real"
+                          ContentTemplate="{DataTemplate viewsUsuarios:LocalizacaoView}"/> -->
+
+
+        <Tab Title="Usuários" Route="usuariosInfo" Icon="MenuUsuarios.png">
+            <ShellContent Title="Usuários"
+                          ContentTemplate="{DataTemplate viewsUsuarios:ListagemView}"/>
+
+            <ShellContent Title="Acessos"
+                          ContentTemplate="{DataTemplate viewsUsuarios:AcessoView}"/>
+            <ShellContent Title="Tempo real" ContentTemplate="{DataTemplate viewsUsuarios:LocalizacaoView}"></ShellContent>
+        </Tab>
+
+        <ShellContent Title="Veiculos" Icon="MenuVeiculos.png"
+                  ContentTemplate="{DataTemplate viewsVeiculos:ListagemView}" />
+
+
+        <Tab Title="Info" Route="Info" Icon="Info.png">
+            <ShellContent Title="Sobre" Route="Sobre" ContentTemplate="{DataTemplate viewsInfo:AboutPage}" />
+
+            <ShellContent Title="Descrição" Route="desc" ContentTemplate="{DataTemplate viewsInfo:DescriptionPage}" />
+        </Tab>
+
+    </FlyoutItem>
+
+    <ShellContent Title="Sair" Icon="Exit.png" ContentTemplate="{DataTemplate viewsUsuarios:LoginView}" />
+    <Shell.FlyoutFooter>
+        <Label x:Name="lblLogin" TextColor="Black" FontAttributes="Bold" HorizontalOptions="Center"></Label>
+    </Shell.FlyoutFooter>
+
+    </Shell>

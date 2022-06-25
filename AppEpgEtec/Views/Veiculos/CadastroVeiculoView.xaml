@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Shell.PresentationMode="ModalAnimated"
+             x:Class="AppEpgEtec.Views.Veiculos.CadastroVeiculoView">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Spacing="3" Padding="15">
+
+                <Label Text="Id" FontSize="Medium"></Label>
+                <Entry Text="{Binding Id}" IsEnabled="False" FontSize="Medium"/>
+
+
+                <Label Text="Nome" FontSize="Medium" />
+                <Entry Text="{Binding Nome}" FontSize="Medium"></Entry>
+                <Label Text="Marca" FontSize="Medium"></Label>
+                <Picker Title="----Selecione-----" 
+                        ItemsSource="{Binding Marcas}"
+                        ItemDisplayBinding="{Binding dsMarca}" 
+                        SelectedItem="{Binding MarcaSelecionada}">                    
+                </Picker>
+                <StackLayout Orientation="Horizontal">
+                    <Button Text="Salvar" Command="{Binding SalvarCommand}"
+                            HorizontalOptions="FillAndExpand"></Button>
+                    <Button Text="Cancel" Command="{Binding CancelarCommand}"
+                            HorizontalOptions="FillAndExpand"></Button>
+                    
+                </StackLayout>
+                        
+            </StackLayout>
+
+        </ScrollView>
+       
+    </ContentPage.Content>
+</ContentPage>

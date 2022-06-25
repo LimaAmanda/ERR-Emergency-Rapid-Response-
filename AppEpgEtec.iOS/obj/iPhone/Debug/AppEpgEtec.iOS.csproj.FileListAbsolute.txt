@@ -1,0 +1,961 @@
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.exe
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.pdb
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.pdb
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\optimized\
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CopyComplete
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.exe
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.exe
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\optimized\
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.AssemblyReference.cache
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CoreCompileInputs.cache
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CopyComplete
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.exe
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.pdb
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.exe
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.pdb
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.pdb
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\optimized\
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.AssemblyReference.cache
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CoreCompileInputs.cache
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CopyComplete
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.exe
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.exe
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLite-net.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Buffers.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Memory.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\optimized\
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.AssemblyReference.cache
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CoreCompileInputs.cache
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CopyComplete
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.exe
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.pdb
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.exe
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.pdb
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLite-net.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Memory.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.pdb
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\optimized\
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.AssemblyReference.cache
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CoreCompileInputs.cache
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CopyComplete
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.exe
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.pdb
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.exe
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.pdb
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLite-net.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Buffers.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Memory.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.pdb
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\optimized\
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.AssemblyReference.cache
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CoreCompileInputs.cache
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CopyComplete
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.exe
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.pdb
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
+D:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Google.Maps.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.exe
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.pdb
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLite-net.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Buffers.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Memory.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Google.Maps.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.pdb
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\optimized\
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.AssemblyReference.cache
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CoreCompileInputs.cache
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CopyComplete
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.exe
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.pdb
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.exe
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.pdb
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLite-net.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Buffers.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Memory.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Google.Maps.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.pdb
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\optimized\
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.AssemblyReference.cache
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CoreCompileInputs.cache
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CopyComplete
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.exe
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.pdb
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.exe
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.pdb
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLite-net.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Buffers.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Memory.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Google.Maps.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.pdb
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\optimized\
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.AssemblyReference.cache
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CoreCompileInputs.cache
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CopyComplete
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.exe
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.pdb
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.exe
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.pdb
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLite-net.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Memory.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Google.Maps.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.dll
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.pdb
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\optimized\
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.AssemblyReference.cache
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CoreCompileInputs.cache
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CopyComplete
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.exe
+C:\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.pdb
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.exe
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.pdb
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLite-net.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Buffers.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Memory.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Google.Maps.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.pdb
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\optimized\
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.AssemblyReference.cache
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CopyComplete
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.exe
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.pdb
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.exe
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.pdb
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLite-net.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Memory.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Google.Maps.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.pdb
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\optimized\
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CopyComplete
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.exe
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.pdb
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.exe
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.iOS.pdb
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLite-net.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Buffers.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Memory.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Google.Maps.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\AppEpgEtec.pdb
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\optimized\
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.AssemblyReference.cache
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CoreCompileInputs.cache
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.csproj.CopyComplete
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.exe
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\obj\iPhone\Debug\AppEpgEtec.iOS.pdb
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec.iOS\bin\iPhone\Debug\Google.Maps.dll

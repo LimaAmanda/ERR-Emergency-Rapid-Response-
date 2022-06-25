@@ -1,0 +1,439 @@
+D:\Mobile II\AppEpgEtec\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+D:\Mobile II\AppEpgEtec\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+D:\Mobile II\AppEpgEtec\AppEpgEtec\bin\Debug\netstandard2.0\ref\AppEpgEtec.dll
+D:\Mobile II\AppEpgEtec\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+D:\Mobile II\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+D:\Mobile II\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mobile II\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Mobile II\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Mobile II\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+D:\Mobile II\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+D:\Mobile II\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+D:\Mobile II\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Mobile II\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+D:\Mobile II\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+D:\Mobile II\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\refint\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+C:\Users\user\Desktop\Mobile II\AppEpgEtec\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\bin\Debug\netstandard2.0\ref\AppEpgEtec.dll
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+F:\Mobile II\TCC\Telas-de-apresentacao-err\Telas-de-apresentacao-e-login-Configuracao-do-App-Classe-de-Servico-main\AppEpgEtec\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\ref\AppEpgEtec.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\refint\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+C:\Users\user\Desktop\Mobile II\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\refint\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Carros\ListagemView.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Motos\ListagemView.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\DescriptionPage.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Carros\ListagemView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\DescriptionPage.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Motos\ListagemView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\refint\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\DescriptionPage.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Motos\ListagemView.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\ListagemView.xaml.g.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\refint\AppEpgEtec.dll
+C:\Users\user\Desktop\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\DescriptionPage.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Motos\ListagemView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\ListagemView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\ref\AppEpgEtec.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\ref\AppEpgEtec.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\DescriptionPage.xaml.g.cs
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Motos\ListagemView.xaml.g.cs
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\ListagemView.xaml.g.cs
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+G:\Mobile II\TCC\AppEpgEtec tcc (1)\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\CadastroVeiculoView.xaml.g.cs
+F:\Mobile II\TCC\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\ListagemView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\DescriptionPage.xaml.g.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Motos\ListagemView.xaml.g.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\AcessoView.xaml.g.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LocalizacaoView.xaml.g.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\CadastroVeiculoView.xaml.g.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\ListagemView.xaml.g.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+D:\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+D:\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+D:\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\ref\AppEpgEtec.dll
+D:\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+D:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\ref\AppEpgEtec.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\DescriptionPage.xaml.g.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Motos\ListagemView.xaml.g.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\AcessoView.xaml.g.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LocalizacaoView.xaml.g.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\CadastroVeiculoView.xaml.g.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\ListagemView.xaml.g.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+D:\Personal\ETEC\Alunos\Sergio\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\ref\AppEpgEtec.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\DescriptionPage.xaml.g.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Motos\ListagemView.xaml.g.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\AcessoView.xaml.g.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LocalizacaoView.xaml.g.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\CadastroVeiculoView.xaml.g.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\ListagemView.xaml.g.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+F:\3ºModulo_DS\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\DescriptionPage.xaml.g.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Motos\ListagemView.xaml.g.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\AcessoView.xaml.g.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LocalizacaoView.xaml.g.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\CadastroVeiculoView.xaml.g.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\ListagemView.xaml.g.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\ref\AppEpgEtec.dll
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+D:\SERGIO_DS_NOITE\DTCC\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+C:\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+C:\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+C:\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\ref\AppEpgEtec.dll
+C:\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\DescriptionPage.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Motos\ListagemView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\AcessoView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LocalizacaoView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\CadastroVeiculoView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\ListagemView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+C:\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\ref\AppEpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\DescriptionPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Motos\ListagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\AcessoView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LocalizacaoView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\CadastroVeiculoView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\ListagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Alunos\Sergio\1706\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\DescriptionPage.xaml.g.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Motos\ListagemView.xaml.g.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\AcessoView.xaml.g.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LocalizacaoView.xaml.g.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\CadastroVeiculoView.xaml.g.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\ListagemView.xaml.g.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\refint\AppEpgEtec.dll
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+C:\Users\user\Desktop\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\ref\AppEpgEtec.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.AssemblyReference.cache
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\DescriptionPage.xaml.g.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Motos\ListagemView.xaml.g.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\AcessoView.xaml.g.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LocalizacaoView.xaml.g.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\CadastroVeiculoView.xaml.g.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\ListagemView.xaml.g.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\ref\AppEpgEtec.dll
+F:\Mobile II\TCC\200620\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.pdb
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.deps.json
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\ref\AppEpgEtec.dll
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\bin\Debug\netstandard2.0\AppEpgEtec.pdb
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\DescriptionPage.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Motos\ListagemView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\AcessoView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LocalizacaoView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\CadastroVeiculoView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\Views\Veiculos\ListagemView.xaml.g.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfoInputs.cache
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.AssemblyInfo.cs
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\AppEpgEtec.csproj.CoreCompileInputs.cache
+C:\AppEpgEtec tcc\AppEpgEtec tcc\AppEpgEtec\obj\Debug\netstandard2.0\XamlC.stamp

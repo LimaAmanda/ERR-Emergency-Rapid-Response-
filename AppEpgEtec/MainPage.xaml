@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppEpgEtec.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="22" CornerRadius="0">
+            <Label Text="Bem vindo ao ERR Emergency Rapid Response!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            
+        </Frame>
+        <Label Text="Possui proteção de dados que não haverá vazamento de dados." FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="Segundo o que estabelece a LGPD(Lei Geral de Proteção de Dados)" FontSize="16" Padding="30,0,30,0"/>
+        <Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Ao utilizar este APP você concorda com a coleta e tratamento de seus dados pessoais por meio de formulario e cookies. "/>
+                        <Span Text="" FontAttributes="Bold"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>
+
+</ContentPage>
